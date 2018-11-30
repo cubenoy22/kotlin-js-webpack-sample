@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "QiitaCodeCopy",
+    "version": "1.0.0",
+    "description": "",
+    "icons": {},
+    "content_scripts": [{
+        "matches": ["https://qiita.com/*/items/*"],
+        "js": ["MyProduct.js"]
+    }],
+    "author": "YOUR_NAME_HERE"
+}
