@@ -1,3 +1,4 @@
 app/node_modules
 app/js/MyProductKt.js*
 app/dist/MyProduct.js
+**/.idea/workspace.xml
